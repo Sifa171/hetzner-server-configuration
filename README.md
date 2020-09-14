@@ -1,4 +1,4 @@
-# my-root
+# Hetzner server configuration
 
 Please checkout https://keithtenzer.com/2019/10/24/how-to-create-a-rhel-8-image-for-hetzner-root-servers/ and learn how to create a RHEL8 image for Hetzner. <br>
 
