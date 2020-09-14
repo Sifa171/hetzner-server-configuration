@@ -39,10 +39,10 @@ Finally excute the following script. It will configure:
 * autostarting cockpit and libvirt 
 
 ```
-sh /root/my-root/server-conf-files/configureServer.sh
+sh /root/hetzner-server-configuration/server-conf-files/configureServer.sh
 ```
 
 Finished!
 
-You can validate your configuration by connecting to your system with user $NEW_USER
+You can validate your configuration by connecting to your system with user $NEW_USER <br>
 You may want to expose cockpit by yourself :-) 
